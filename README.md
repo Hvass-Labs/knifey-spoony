@@ -14,7 +14,7 @@ Original author is [Magnus Erik Hvass Pedersen](http://www.hvass-labs.org)
 * This is the Knifey-Spoony image data-set.
 * The images show 3 types of objects: Cutlery knives, spoons and forks on a few different backgrounds.
 * The classes are named: knifey, spoony and forky. (It's a spoof from The Simpsons on the 1980's movie Crocodile Dundee.)
-* These images are used in [TensorFlow Tutorial #09](https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/08_Video_Data.ipynb) as an example of a classification problem.
+* These images are used in [TensorFlow Tutorial #09](https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/09_Video_Data.ipynb) as an example of a classification problem.
 * There is a [script](https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/convert.py) for converting videos to images so you can easily create your own data-set with thousands of images from just a few video-recordings.
 
 ## Images
